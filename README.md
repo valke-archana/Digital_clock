@@ -10,3 +10,11 @@ This project is a Digital Clock built using HTML, CSS, and JavaScript. It displa
 
 * ## Live Demo
 👉 [Click here to view live project](https://valke-archana.github.io/Digital_clock/)
+
+## Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript
+
+  ## Author
+   Created by [Valke Archana]
