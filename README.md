@@ -7,3 +7,6 @@ This project is a Digital Clock built using HTML, CSS, and JavaScript. It displa
 * Day Indicator – Highlights the current day of the week.
 * Responsive Design – Works on desktop, tablet, and mobile.
 * AM/PM Indicator – For 12-hour format clocks.
+
+* ## Live Demo
+👉 [Click here to view live project]()
